@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/harbour-memory/static/css/main.1d86f691.css",
-    "main.js": "/harbour-memory/static/js/main.f6dc82ef.js",
+    "main.css": "/harbour-memory/static/css/main.3899bf2c.css",
+    "main.js": "/harbour-memory/static/js/main.ee0a0519.js",
     "static/js/787.364b742f.chunk.js": "/harbour-memory/static/js/787.364b742f.chunk.js",
     "static/media/logo.svg": "/harbour-memory/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/harbour-memory/index.html",
-    "main.1d86f691.css.map": "/harbour-memory/static/css/main.1d86f691.css.map",
-    "main.f6dc82ef.js.map": "/harbour-memory/static/js/main.f6dc82ef.js.map",
+    "main.3899bf2c.css.map": "/harbour-memory/static/css/main.3899bf2c.css.map",
+    "main.ee0a0519.js.map": "/harbour-memory/static/js/main.ee0a0519.js.map",
     "787.364b742f.chunk.js.map": "/harbour-memory/static/js/787.364b742f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d86f691.css",
-    "static/js/main.f6dc82ef.js"
+    "static/css/main.3899bf2c.css",
+    "static/js/main.ee0a0519.js"
   ]
 }
